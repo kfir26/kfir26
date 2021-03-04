@@ -1,3 +1,4 @@
+<img width="1320" alt="k-paniri portfolio" src="https://user-images.githubusercontent.com/59959055/109961254-64ccb800-7cf2-11eb-8401-236f6f667e23.png">
 ### Hi there 👋
 
 <!--
@@ -21,9 +22,8 @@ Here are some ideas to get you started:
 <p>
 <img align="left-bottom" alt="Kfir26 Github Stats" src="https://github-readme-stats.vercel.app/api?username=kfir26&theme=cobalt&show_icons=true&hide_border=true"/>
 <img style="border-radius: 5px; margin: 0 0 5px 35px;" alt="GIF" width="320px" height="240px" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif"/>
-  <br></br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kfir26&layout=compact"/>
-
+ <br></br>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kfir26&layout=compact"/>
 </p>
 
 
