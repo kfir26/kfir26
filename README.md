@@ -20,5 +20,6 @@ Here are some ideas to get you started:
 ---
 <p>
 <img align="left-bottom" alt="Kfir26 Github Stats" src="https://github-readme-stats.vercel.app/api?username=kfir26&theme=radical&show_icons=true&hide_border=true"/>
-<img style="border-radius: 5px; margin: 0 0 5px 35px;" alt="GIF" width="320px" height="240px" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" />
+<img style="border-radius: 5px; margin: 0 0 5px 35px;" alt="GIF" width="320px" height="240px" src="https://assets9.lottiefiles.com/packages/lf20_n9ryrmts.json" />
 </p>
+https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif
