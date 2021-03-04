@@ -1,4 +1,4 @@
-![header](https://raw.githubusercontent.com/kfir26/kfir26/master/deer-anim3.gif&text=Hi%20👋,%20I'm%20Kfir&fontSize=35&fontAlignY=32)
+<h1 align='center'><samp><strong>Hi there 🙋🏻, I am Kfir</strong></samp></h1>
 <img style="border-radius: 5px; margin: 0 0 5px 35px;" alt="GIF" width="800px" height="400px" src="https://raw.githubusercontent.com/kfir26/kfir26/master/deer-anim3.gif"/>
 
    
