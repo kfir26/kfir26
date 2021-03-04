@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 ---
-### GitHub Stats
+### GitHub Stats:
 ---
 <img align="left" alt="Kfir26 Github Stats" src="https://github-readme-stats.vercel.app/api?username=kfir26&theme=radical&show_icons=true&hide_border=true"/>
