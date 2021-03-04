@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <img align="left-bottom" alt="Kfir26 Github Stats" src="https://github-readme-stats.vercel.app/api?username=kfir26&theme=cobalt&show_icons=true&hide_border=true"/>
 <img style="border-radius: 5px; margin: 0 0 5px 35px;" alt="GIF" width="320px" height="240px" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif"/>
   <br></br>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact"(https://github.com/kfir26/github-readme-stats)
 
 </p>
 
