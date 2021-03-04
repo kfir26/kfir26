@@ -1,8 +1,4 @@
-<img width="1320" alt="k-paniri portfolio" src="https://user-images.githubusercontent.com/59959055/109961254-64ccb800-7cf2-11eb-8401-236f6f667e23.png">
 ### Hi there 👋
-
-<!--
-**kfir26/kfir26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
