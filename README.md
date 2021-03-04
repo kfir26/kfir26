@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 
 ### GitHub Stats
-<img align="left" alt="Kfir26 Github Stats" src="https://github-readme-stats.vercel.app/api?username=kfir26_icons=true@hide_border=true"/>
+<img align="left" alt="Kfir26 Github Stats" src="https://github-readme-stats.vercel.app/api?username=kfir26_icons=true&hide_border=true"/>
