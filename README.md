@@ -1,8 +1,5 @@
 ### Hi there 👋
----
-<a href="https://il.linkedin.com/in/kfir-paniri-b424b51b3?trk=people-guest_people_search-card" class="icon-link">
-<i class="fab fa-linkedin"></i>
-</a>
+
    
 
 
