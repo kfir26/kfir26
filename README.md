@@ -12,4 +12,7 @@
  <br></br>
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kfir26&layout=compact"/>
 </p>
-<img src="https://raw.githubusercontent.com/kfir26/kfir26/master/yosemite1.jpg"/>
+## Connect with me
+<a href="https://www.linkedin.com/in/bar-ovda-b34117180" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="https://www.linkedin.com/in/bar-ovda-b34117180" height="30" width="40" /></a>
+
+![footer](https://capsule-render.vercel.app/api?section=footer)
