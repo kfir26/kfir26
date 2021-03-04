@@ -1,4 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=225&section=header&text=Hi%20👋,%20I'm%20kfir&fontSize=35&fontAlignY=32)
+---
+# Hi, I'm Monica 👋🏾 👩🏾‍💻
+
+<img src="https://raw.githubusercontent.com/M0nica/M0nica/master/gh-header-image-cropped.png" alt="banner that says Monica Powell - software engineer, content creator and community organizer alongside a cartoon illustration of Monica">
 
 
    
