@@ -1,4 +1,4 @@
-# Hi there 🙋🏻, I'm Kfir
+# Hi there 🙋🏻‍♂️, I'm Kfir
 <img style="border-radius: 5px; margin: 0 0 5px 35px;" alt="GIF" width="800px" height="400px" src="https://raw.githubusercontent.com/kfir26/kfir26/master/deer-anim3.gif"/>
 
 ---
