@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=225&section=header&text=Hi%20👋,%20I'm%20kfir&fontSize=35&fontAlignY=32)
+![header](https://i.pinimg.com/originals/33/52/54/3352541f021436d780b7b9290a5bd9b3.jpg&section=header&text=Hi%20👋,%20I'm%20kfir&fontSize=35&fontAlignY=32)
 
 <img style="border-radius: 5px; margin: 0 0 5px 35px;" alt="GIF" width="850px" height="400px" src="https://raw.githubusercontent.com/kfir26/kfir26/master/deer-anim3.gif"/>
 
