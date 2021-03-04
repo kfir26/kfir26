@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=225&section=header&text=Hi%20👋,%20I'm%20kfir&fontSize=35&fontAlignY=32)
 
-<img style="border-radius: 10px; margin: 0 0 0 0;" alt="GIF" width="50%" height="40%" src="https://raw.githubusercontent.com/kfir26/kfir26/master/deer-anim3.gif">
+<img style="width="50%" height="40%" src="https://raw.githubusercontent.com/kfir26/kfir26/master/deer-anim3.gif">
 
    
 
