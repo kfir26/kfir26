@@ -10,12 +10,15 @@
 ### Show Time
 All your favorite games in one place! ➡️    <a href="https://github.com/kfir26/ShowTime" target="blank"><img align="right" src="https://github.com/kfir26/" alt="ShowTime" width="80" height="80" /></a>
 <br></br>
+---
 ### Movie Time
 All your favorite games in one place! ➡️    <a href="https://github.com/kfir26/MovieTime" target="blank"><img align="right" src="https://github.com/kfir26/" alt="MovieTime" width="80" height="80" /></a>
 <br></br>
+---
 ### My Gym 101
-All your favorite games in one place! ➡️    <a href="https://github.com/kfir26/MyGym101" target="blank"><img align="right" src="https://github.com/kfir26/master/Gym101.png" alt="MyGym101" width="80" height="80" /></a>
+All your favorite games in one place! ➡️    <a href="https://github.com/kfir26/MyGym101" target="blank"><img align="right" src="https://github.com/kfir26/kfir26/master/Gym101.png" alt="MyGym101" width="80" height="80" /></a>
 <br></br>
+---
 
 
 <br></br>
