@@ -18,7 +18,7 @@ All your favorite games in one place! ➡️    <a href="https://github.com/kfir
 <br></br>
 ---
 ### My Gym 101
-All your favorite games in one place! ➡️    <a href="https://github.com/kfir26/MyGym101" target="blank"><img align="right" src="https://raw.githubusercontent.com/kfir26/kfir26/master/Gym101.png" alt="MyGym101" width="80" height="80" /></a>
+All your gym tools in one place! ➡️    <a href="https://github.com/kfir26/MyGym101" target="blank"><img align="right" src="https://raw.githubusercontent.com/kfir26/kfir26/master/Gym101.png" alt="MyGym101" width="80" height="80" /></a>
 <br></br>
 ---
 
