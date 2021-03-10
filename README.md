@@ -10,11 +10,11 @@
 
 ## 📘 Check out my latest projects
 ### Show Time
-All your favorite games in one place! ➡️    <a href="https://github.com/kfir26/ShowTime" target="blank"><img align="right" src="https://raw.githubusercontent.com/kfir26/kfir26/master/20210310_190441.jpg" alt="ShowTime" width="90" height="90" /></a>
+All your social media in one place! ➡️    <a href="https://github.com/kfir26/ShowTime" target="blank"><img align="right" src="https://raw.githubusercontent.com/kfir26/kfir26/master/20210310_190441.jpg" alt="ShowTime" width="90" height="90" /></a>
 <br></br>
 ---
 ### Movie Time
-All your favorite games in one place! ➡️    <a href="https://github.com/kfir26/MovieTime" target="blank"><img align="right" src="https://raw.githubusercontent.com/kfir26/kfir26/master/20210310_191033.jpg" alt="MovieTime" width="90" height="90" /></a>
+All your brand movies one place! ➡️    <a href="https://github.com/kfir26/MovieTime" target="blank"><img align="right" src="https://raw.githubusercontent.com/kfir26/kfir26/master/20210310_191033.jpg" alt="MovieTime" width="90" height="90" /></a>
 <br></br>
 ---
 ### My Gym 101
