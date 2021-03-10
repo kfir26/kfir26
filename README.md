@@ -1,6 +1,8 @@
 # Hi there 🙋🏻‍♂️, I'm Kfir
 <img style="border-radius: 5px; margin: 0 0 5px 35px;" alt="GIF" width="800px" height="400px" src="https://raw.githubusercontent.com/kfir26/kfir26/master/deer-anim3.gif"/>
+
 ---
+
 ## Find me around the web 🌎: <a href="https://github.com/sponsors/kfir26"><img align="left" width="150" height="150" src="https://raw.githubusercontent.com/kfir26/kfir26/master/animation_300_klv695zp.gif?raw=true"></a>
 - Check My Portfolio  on <a href="https://myportfolio-by-kpaniri.herokuapp.com">My Portfolio</a> 📹 ✍🏾
 
