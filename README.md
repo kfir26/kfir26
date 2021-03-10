@@ -7,9 +7,7 @@
 - Check My Portfolio  on <a href="https://myportfolio-by-kpaniri.herokuapp.com">My Portfolio</a> 📹 ✍🏾
 
 
----
-
-## 📘 Check out my latest projects
+### 📘 Check out my latest projects
 ### Show Time
 All your favorite games in one place! ➡️    <a href="https://github.com/kfir26/ShowTime" target="blank"><img align="right" src="https://github.com/kfir26/" alt="ShowTime" width="80" height="80" /></a>
 <br></br>
