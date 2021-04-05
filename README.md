@@ -6,7 +6,7 @@
 ## Find me around the web 🌎: <a href="https://github.com/sponsors/kfir26"><img align="left" width="150" height="150" src="https://raw.githubusercontent.com/kfir26/kfir26/master/animation_300_klv695zp.gif?raw=true"></a>
 - Check My Portfolio  on <a href="https://myportfolio-by-kpaniri.herokuapp.com">My Portfolio</a> 📹 ✍🏾
 <br></br>
-<br></br>
+<br></br
 
 ## 📘 Check out my latest projects
 ### Show Time
