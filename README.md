@@ -10,19 +10,19 @@
 
 ## 📘 Check out my latest projects
 ### Show Time
-All your social media in one place! ➡️    <a href="https://github.com/kfir26/ShowTime" target="blank"><img align="right" src="https://raw.githubusercontent.com/kfir26/kfir26/master/20210310_190441.jpg" alt="ShowTime" width="120" height="120" /></a>
+All your social media in one place! ➡️    <a href="https://github.com/kfir26/ShowTime" target="blank"><img align="right" src="https://raw.githubusercontent.com/kfir26/kfir26/master/20210310_190441.jpg" alt="ShowTime" width="150" height="150" /></a>
 <br></br>
 ---
 <br></br>
 <br></br>
 ### Movie Time
-All your brand movies in one place! ➡️    <a href="https://github.com/kfir26/MovieTime" target="blank"><img align="right" src="https://raw.githubusercontent.com/kfir26/kfir26/master/20210310_191033.jpg" alt="MovieTime" width="120" height="120" /></a>
+All your brand movies in one place! ➡️    <a href="https://github.com/kfir26/MovieTime" target="blank"><img align="right" src="https://raw.githubusercontent.com/kfir26/kfir26/master/20210310_191033.jpg" alt="MovieTime" width="150" height="150" /></a>
 <br></br>
 ---
 <br></br>
 <br></br>
 ### My Gym 101
-All your gym tools in one place! ➡️    <a href="https://github.com/kfir26/MyGym101" target="blank"><img align="right" src="https://raw.githubusercontent.com/kfir26/kfir26/master/Gym101.png" alt="MyGym101" width="120" height="120" /></a>
+All your gym tools in one place! ➡️    <a href="https://github.com/kfir26/MyGym101" target="blank"><img align="right" src="https://raw.githubusercontent.com/kfir26/kfir26/master/Gym101.png" alt="MyGym101" width="150" height="150" /></a>
 <br></br>
 ---
 <br></br>
