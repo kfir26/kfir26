@@ -20,10 +20,13 @@ All your brand movies in one place! ➡️    <a href="https://github.com/kfir26
 <br></br>
 ---
 <br></br>
+<br></br>
 ### My Gym 101
 All your gym tools in one place! ➡️    <a href="https://github.com/kfir26/MyGym101" target="blank"><img align="right" src="https://raw.githubusercontent.com/kfir26/kfir26/master/Gym101.png" alt="MyGym101" width="120" height="120" /></a>
 <br></br>
 ---
+<br></br>
+<br></br>
 
 
 <br></br>
