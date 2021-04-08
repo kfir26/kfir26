@@ -28,7 +28,7 @@ All your gym tools in one place! ➡️    <a href="https://github.com/kfir26/My
 <br></br>
 <br></br>
 ### HomeProject-CoreData
-HomeProject CoreData with Users! ➡️    <a href="https://github.com/kfir26/HomeProject-CoreData" target="blank"><video align="right" src="https://raw.githubusercontent.com/kfir26/kfir26/master/ProjectGif/HomeProject Teaser.mov" alt="HomeProject Teaser.mov" width="150" height="150" /></a>
+HomeProject CoreData with Users! ➡️    <a href="https://github.com/kfir26/HomeProject-CoreData" target="blank"><video align="right" src="https://raw.githubusercontent.com/kfir26/kfir26/master/ProjectGif/HomeProject Teaser.gif" alt="HomeProject Teaser.gif" width="150" height="150" /></a>
 <br></br>
 ---
 <br></br>
