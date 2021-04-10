@@ -10,7 +10,7 @@
 
 ## 📘 Check out my latest projects
 ### Show Time
-All your social media in one place! ➡️    <a href="https://github.com/kfir26/ShowTime" target="blank"><img align="right" src="https://raw.githubusercontent.com/kfir26/kfir26/master/20210310_190441.jpg" alt="ShowTime" width="150" height="150" /></a>
+All your social media in one place! ➡️    <a href="https://github.com/kfir26/ShowTime" target="blank"><img align="right" src="https://raw.githubusercontent.com/kfir26/kfir26/master/ProjectGif/ShowTime Project Teaser.gif" alt="ShowTime" width="150" height="150" /></a>
 <br></br>
 ---
 <br></br>
