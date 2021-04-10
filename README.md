@@ -16,7 +16,7 @@ All your social media in one place! ➡️    <a href="https://github.com/kfir26
 <br></br>
 <br></br>
 ### Movie Time
-All your brand movies in one place! ➡️    <a href="https://github.com/kfir26/MovieTime" target="blank"><img align="right" src="https://raw.githubusercontent.com/kfir26/kfir26/master/20210310_191033.jpg" alt="MovieTime" width="150" height="150" /></a>
+All your brand movies in one place! ➡️    <a href="https://github.com/kfir26/MovieTime" target="blank"><img align="right" src="https://raw.githubusercontent.com/kfir26/kfir26/master/ProjectGif/MovieTime Project Teaser.gif" alt="MovieTime" width="150" height="150" /></a>
 <br></br>
 ---
 <br></br>
