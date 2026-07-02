@@ -16,7 +16,7 @@
 
 ## About
 
-iOS engineer focused on native app architecture — MVVM + Coordinator, UIKit, SwiftData, and on-device Vision/ML pipelines. Background spans Android (Kotlin/Java) and web (Angular, React, Node/Express), so I move comfortably end-to-end.
+iOS engineer focused on native app architecture — MVVM + Coordinator, UIKit, SwiftData, and on-device Vision/ML pipelines. Comfortable outside the Apple ecosystem too, with working experience in Kotlin/Android and React/Node.
 
 - 🔭 Currently building **[VisionScan](https://github.com/kfir26/VisionScan)** — a live-camera OCR scanner with real-time recognition, deduplication, and searchable history
 - 🏗️ Big on clean architecture: protocol-driven design, dependency injection, testability by default
@@ -28,13 +28,25 @@ iOS engineer focused on native app architecture — MVVM + Coordinator, UIKit, S
 
 ## Tech Stack
 
-<table align="center">
-<tr><td align="center"><b>Languages</b></td><td><img src="https://skillicons.dev/icons?i=swift,kotlin,java,ts,js,c,cpp&theme=dark" /></td></tr>
-<tr><td align="center"><b>Mobile</b></td><td><img src="https://skillicons.dev/icons?i=swift,kotlin,androidstudio&theme=dark" /></td></tr>
-<tr><td align="center"><b>Frontend</b></td><td><img src="https://skillicons.dev/icons?i=react,angular,html,css,bootstrap&theme=dark" /></td></tr>
-<tr><td align="center"><b>Backend & Cloud</b></td><td><img src="https://skillicons.dev/icons?i=nodejs,express,firebase,heroku&theme=dark" /></td></tr>
-<tr><td align="center"><b>Tools & Design</b></td><td><img src="https://skillicons.dev/icons?i=git,postman,figma,ai,ps&theme=dark" /></td></tr>
-</table>
+**iOS & Apple Platform**
+
+<p align="center">
+<img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" />
+<img src="https://img.shields.io/badge/UIKit-000000?style=for-the-badge&logo=apple&logoColor=white" />
+<img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white" />
+<img src="https://img.shields.io/badge/SwiftData-2C5364?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Vision%20Framework-2C5364?style=for-the-badge" />
+<img src="https://img.shields.io/badge/AVFoundation-2C5364?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Swift%20Concurrency-0F2027?style=for-the-badge" />
+<img src="https://img.shields.io/badge/MVVM%20%2B%20Coordinator-0F2027?style=for-the-badge" />
+<img src="https://img.shields.io/badge/XCTest-0F2027?style=for-the-badge" />
+</p>
+
+**Cross-Platform & Full-Stack**
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=kotlin,androidstudio,ts,react,nodejs,firebase,git,figma&theme=dark" />
+</p>
 
 <br/>
 
