@@ -53,8 +53,8 @@ iOS engineer focused on native app architecture — MVVM + Coordinator, UIKit, S
 ## GitHub Stats
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=kfir26&show_icons=true&hide_border=true&theme=tokyonight" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kfir26&layout=compact&hide_border=true&theme=tokyonight" />
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=kfir26&show_icons=true&hide_border=true&theme=tokyonight" />
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=kfir26&layout=compact&hide_border=true&theme=tokyonight" />
 </div>
 
 <div align="center">
